@@ -11,13 +11,9 @@
   },
   "author": "otto",
   "license": "MIT",
-  "homepage": "https://github.com/zzh948498/packageout#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zzh948498/packageout.git"
-  },
-  "bugs": {
-    "url": "https://github.com/zzh948498/packageout/issues"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.149",
