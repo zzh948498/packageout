@@ -25,3 +25,4 @@ try {
 
 const demo2 = new Demo2()
 demo2.getOne();
+console.log('otto-0120')
